@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Viktoriia Zhorova
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zhoriiikkk)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viktoriiazhorova.24@gmail.com?subject=Contact%20from%20GitHub)
+
 
 ---
 
@@ -39,3 +39,8 @@
 - Advanced CSS (Flexbox, Grid, Animations)
 - JavaScript frameworks (React)
 - Backend development basics
+- ## 📫 Contact Information
+
+- ✉️ **Email**: viktoriiazhorova.24@gmail.com
+
+---
