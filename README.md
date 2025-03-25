@@ -31,7 +31,6 @@
 - **Russian**: Native
 - **English**: B1
 
----
 
 
 
