@@ -1,8 +1,7 @@
-# 👋 Hello, I'm [Your Name]
-### Frontend Developer | Computer Science Student @ BSU
+# 👋 Hello, I'm Viktoriia Zhorova
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zhoriiikkk)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viktoriiazhorova.24@gmail.com)
 
 
 ---
@@ -32,14 +31,6 @@
 ## 🌍 Languages
 - **Russian**: Native
 - **English**: B1
-
----
-
-## 🚀 Projects
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **[Project 1](link)** | Responsive website | HTML, CSS, JavaScript |
-| **[Project 2](link)** | Database application | C++, SQL Server |
 
 ---
 
